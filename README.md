@@ -50,7 +50,7 @@ http://127.0.0.1/python-spider/
 
 
 
-![image-20230919220551649](https://gitee.com/yuan_boss/yuanboss-pic-bed/raw/master/img2/image-20230919220551649.png)
+![image-20230920100043389](https://gitee.com/yuan_boss/yuanboss-pic-bed/raw/master/img2/image-20230920100043389.png)
 
 
 
@@ -63,7 +63,6 @@ http://127.0.0.1/python-spider/
 
 
 ![image-20230919220720627](https://gitee.com/yuan_boss/yuanboss-pic-bed/raw/master/img2/image-20230919220720627.png)
-
 
 
 
