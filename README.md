@@ -52,8 +52,6 @@ http://127.0.0.1/python-spider/
 
 ![image-20230920100043389](https://gitee.com/yuan_boss/yuanboss-pic-bed/raw/master/img2/image-20230920100043389.png)
 
-
-
 ![image-20230919222031896](https://gitee.com/yuan_boss/yuanboss-pic-bed/raw/master/img2/image-20230919222031896.png)
 
 
